@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int x = 2, y = 1, a = 1, w = 4, b = 6, X = 4, e = 2;
+        int x = 2, y = 1, a = 20, w = 4, b = 6, X = 4, e = 2;
         int answer1, answer2, answer3, answer4;
         answer1 = x + y - a / 2 * (x + w);
         answer2 = a * (x + x) / y - a * 3;
